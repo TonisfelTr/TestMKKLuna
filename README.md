@@ -7,8 +7,8 @@
 ## 🚀 Быстрый запуск
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/TonisfelTr/TestMKKLuna.git
+cd TestMKKLuna
 composer install
 cp .env.example .env
 php artisan key:generate
